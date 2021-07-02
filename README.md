@@ -17,5 +17,5 @@ Buenos días. Mi nombre es Alex Santos. Practicando sobre estilo de texto:
 - Consultas sobre el estilo se pueden hacer en: [GitHub Docs](https://docs.github.com/es/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 
-## Suptitulo 3
+## Subtitulo 3
 Hola Mi nombre es Laura Castillo, Soy residente de Choloma :) Saludos 
